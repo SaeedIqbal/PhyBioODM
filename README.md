@@ -5,8 +5,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![MICCAI 2026](https://img.shields.io/badge/Conference-MICCAI-purple.svg)]()
 
-Official PyTorch implementation of **PhyBio-ODM**, a physics-aware generative framework that resolves the discrete token bottleneck and morphological entanglement inherent in current metadata-guided diffusion models for computational pathology.
-
 ---
 
 ## 📑 Table of Contents
